@@ -1,6 +1,6 @@
 #  Fun with Grand Central Dispatch
 
-This project is a showcase for most concepts and tasks, that we can perfrom using Grand Central Dispatch. I have prepared being an iOS Expert for [iOS Ukraine conference #1](https://www.facebook.com/events/316585402972291), that took place in September 2020.
+This project is a showcase for most concepts and tasks, that we can perfrom using Grand Central Dispatch. I have prepared it being for my iOS Expert role at [iOS Ukraine conference #1](https://www.facebook.com/events/316585402972291), that took place in September 2020.
 
 It consists of a series of tasks, from basic to more complex, that illustrate how something works or how a certain problem is usually solved.
 
@@ -8,7 +8,7 @@ It consists of a series of tasks, from basic to more complex, that illustrate ho
 Open ViewController.swift and uncomment a task you are interested in. Run!
 
 ### Task 0
-Illustrates how synchronous execution works
+Illustrates [how synchronous execution works](./Fun with GCD/Tasks/Task0SynchronousExecution.swift)
 
 ### Task 1
 Illustrates how asynchronous execution works
@@ -29,7 +29,7 @@ Illustrates how the system handles queues with different quality of service
 Illustrates concurrent access to a property and a proper way to protect a property
 
 ### Task 7
-Illustrates how concurrent execution of a not protected section of code can crash an app in a place where everything looks safe
+Illustrates how concurrent execution of a not protected section of code can crash an app in a place where everything looks fine
 
 ### Task 8
 Illustrates how to synchronize asyn API
