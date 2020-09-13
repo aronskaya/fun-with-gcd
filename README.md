@@ -8,7 +8,7 @@ It consists of a series of tasks, from basic to more complex, that illustrate ho
 Open ViewController.swift and uncomment a task you are interested in. Run!
 
 ### Task 0
-Illustrates [how synchronous execution works](Fun\ with\ GCD/Tasks/Task0SynchronousExecution.swift)
+Illustrates [how synchronous execution works](Fun%20with%20GCD/Tasks/Task0SynchronousExecution.swift)
 
 ### Task 1
 Illustrates how asynchronous execution works
