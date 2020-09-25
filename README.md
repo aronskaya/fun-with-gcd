@@ -26,7 +26,7 @@ Illustrates [how the system handles queues with different quality of service com
 Illustrates [how the system handles queues with different quality of service](Fun%20with%20GCD/Tasks/Task5UpdateUI.swift)
 
 ### 6️⃣ Task 6
-Illustrates concurrent access to a property and [a way to protect a property](Fun%20with%20GCD/Tasks/Task6SyncWriteAsyncRead.swift)
+Illustrates concurrent access to a property and [a way to protect a property](Fun%20with%20GCD/Tasks/Task6SynchronizeAccess.swift)
 
 ### 7️⃣ Task 7
 Illustrates [how concurrent execution of a not protected section of code can crash an app](Fun%20with%20GCD/Tasks/Task7RaceCondition.swift) in a place where everything looks fine

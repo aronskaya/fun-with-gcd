@@ -14,19 +14,18 @@ class ViewController: UIViewController {
     let client = Client()
 
     override func viewDidAppear(_ animated: Bool) {
-
 //        task0SynchronousExecution()
 //        task1AsynchronousExecution()
 //        task2SerialConcurrent()
 //        task3Priority()
 //        task4PriorityMain()
 //        task5UpdateUI(label: label)
-//        task6SyncWriteAsyncRead()
+//        task6SynchronizeAccess()
 //        task7RaceCondition()
 //        task8SynchronizeAsync()
-        client.task9ProvideAsyncInterface()
-        task11HowToDeadlock()
-        task12CompletionAfterSeveralTasks()
+//        client.task9ProvideAsyncInterface()
+//        task11HowToDeadlock()
+//        task12CompletionAfterSeveralTasks()
     }
 }
 

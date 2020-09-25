@@ -21,7 +21,7 @@
 		6981E4C024F69A800039EAEE /* Task3Priority.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6981E4B724F69A800039EAEE /* Task3Priority.swift */; };
 		6981E4C124F69A800039EAEE /* Task8SynchronizeAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6981E4B824F69A800039EAEE /* Task8SynchronizeAsync.swift */; };
 		6981E4C424F6A2FC0039EAEE /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6981E4C324F6A2FC0039EAEE /* Utility.swift */; };
-		69F7E3E2250B9E0E00B5DDB5 /* Task6SyncWriteAsyncRead.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F7E3E1250B9E0E00B5DDB5 /* Task6SyncWriteAsyncRead.swift */; };
+		69F7E3E2250B9E0E00B5DDB5 /* Task6SynchronizeAccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F7E3E1250B9E0E00B5DDB5 /* Task6SynchronizeAccess.swift */; };
 		69F7E3E4250BA86700B5DDB5 /* Task1AsynchronousExecution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F7E3E3250BA86700B5DDB5 /* Task1AsynchronousExecution.swift */; };
 		69F7E3E6250BAA5E00B5DDB5 /* Task2SerialConcurrent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F7E3E5250BAA5E00B5DDB5 /* Task2SerialConcurrent.swift */; };
 		69F7E3E8250CFA7300B5DDB5 /* Task10AsynInterfaceAppleStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F7E3E7250CFA7300B5DDB5 /* Task10AsynInterfaceAppleStyle.swift */; };
@@ -58,7 +58,7 @@
 		6981E4B724F69A800039EAEE /* Task3Priority.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task3Priority.swift; sourceTree = "<group>"; };
 		6981E4B824F69A800039EAEE /* Task8SynchronizeAsync.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task8SynchronizeAsync.swift; sourceTree = "<group>"; };
 		6981E4C324F6A2FC0039EAEE /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
-		69F7E3E1250B9E0E00B5DDB5 /* Task6SyncWriteAsyncRead.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task6SyncWriteAsyncRead.swift; sourceTree = "<group>"; };
+		69F7E3E1250B9E0E00B5DDB5 /* Task6SynchronizeAccess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task6SynchronizeAccess.swift; sourceTree = "<group>"; };
 		69F7E3E3250BA86700B5DDB5 /* Task1AsynchronousExecution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task1AsynchronousExecution.swift; sourceTree = "<group>"; };
 		69F7E3E5250BAA5E00B5DDB5 /* Task2SerialConcurrent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2SerialConcurrent.swift; sourceTree = "<group>"; };
 		69F7E3E7250CFA7300B5DDB5 /* Task10AsynInterfaceAppleStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task10AsynInterfaceAppleStyle.swift; sourceTree = "<group>"; };
@@ -120,7 +120,7 @@
 				6981E4B724F69A800039EAEE /* Task3Priority.swift */,
 				6981E4B424F69A800039EAEE /* Task4Priority+Main.swift */,
 				6981E4B124F69A800039EAEE /* Task5UpdateUI.swift */,
-				69F7E3E1250B9E0E00B5DDB5 /* Task6SyncWriteAsyncRead.swift */,
+				69F7E3E1250B9E0E00B5DDB5 /* Task6SynchronizeAccess.swift */,
 				6981E4B524F69A800039EAEE /* Task7RaceCondition.swift */,
 				6981E4B824F69A800039EAEE /* Task8SynchronizeAsync.swift */,
 				6981E4B224F69A800039EAEE /* Task9ProvideAsyncInterface.swift */,
@@ -219,7 +219,7 @@
 				69F7E3EA250D070800B5DDB5 /* Task12CompletionAfterSeveralTasks.swift in Sources */,
 				69F7E3E6250BAA5E00B5DDB5 /* Task2SerialConcurrent.swift in Sources */,
 				6981E4BD24F69A800039EAEE /* Task4Priority+Main.swift in Sources */,
-				69F7E3E2250B9E0E00B5DDB5 /* Task6SyncWriteAsyncRead.swift in Sources */,
+				69F7E3E2250B9E0E00B5DDB5 /* Task6SynchronizeAccess.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
